@@ -1,7 +1,4 @@
 ---
-
-### ✅ `README.md`
-
 <h1 align="center">👋 Hello, I'm Raidan</h1>
 
 <p align="center">
